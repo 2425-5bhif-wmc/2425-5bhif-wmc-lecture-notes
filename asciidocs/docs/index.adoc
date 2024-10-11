@@ -13,7 +13,17 @@ icon:github-square[link=https://github.com/2425-5bhif-wmc/2425-5bhif-wmc-lecture
 icon:home[link=http://edufs.edu.htl-leonding.ac.at/~t.stuetz/hugo/2021/01/lecture-notes/]
 endif::backend-html5[]
 
-== 2024-09-xx
+== 2024-10-11
+
+=== Tutorials
+
+image::WMC-Referatsthemen.png[]
+
+
+
+
+
+
 
 
 
