@@ -18,13 +18,46 @@ endif::backend-html5[]
 === Tutorials
 
 image::WMC-Referatsthemen.png[]
+``
+
+== 2025-02-07 Pure Web
+
+=== Komponenten
+
+* ES6 Proxy Object
+* HTML Templates zum schnellen Rendern
+* Custom Elements
+* History API fürs Routing
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules[JavaScript Modules^]
+* https://developer.mozilla.org/en-US/docs/Web/API/Document/DOMContentLoaded_event[DOMContentLoaded_event^]
 
 
+=== Nachteil Boilerplate Code
+
+ev. Verwendung eines schlanken Frameworks wir litHtml
 
 
+=== Demo
 
+----
+npm init -y
+npm install @angular/cli --save-dev
+npx ng new ng-demo
+find . -type f -print | wc -l   # filecount
+cd ng-demo
+npm outdated
 
+----
 
+----
+.
+├── ng-demo
+│   ├── node_modules
+│   ├── public
+│   └── src
+└── node_modules
+----
 
+* Problem: Bundler
 
-
+* https://pagespeed.web.dev/analysis/https-www-htl-leonding-at/ysbc6kon6v?form_factor=mobile
