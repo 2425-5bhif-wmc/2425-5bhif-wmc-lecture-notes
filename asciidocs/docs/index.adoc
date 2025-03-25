@@ -61,3 +61,48 @@ npm outdated
 * Problem: Bundler
 
 * https://pagespeed.web.dev/analysis/https-www-htl-leonding-at/ysbc6kon6v?form_factor=mobile
+
+
+== 2025-03-25
+
+=== Tutorials
+
+* Angular mit single source of truth mit signals (*Cao* Anton)
+* Quarkus roq mit Asciidoc (Mali Laurent)
+* Keycloak - Übung von dem Herr Dr. Prof. Aberger * In Asciidoc aufgearbeitet (*Seifried* Erik)
+* Keycloak
+** REST Backend mit *Schludermann*
+*** RBAC sichern
+*** policy sichern
+** Frontend Angular
+*** RBAC (*Lehner*)
+*** Policy (*Salkovic*)
+** Frontend Pureweb
+*** RBAC (*Daxinger*)
+*** Policy (*Sonnleitner*)
+*** Keycloak unter Verwendung von auth.htl-leonding Server
+
+* Quarkus Quinoa (*Gruber*)
+
+* Quarkus Renard und Qute und htmx (Aldesoky)
+
+* gh-actions (Schnalzenberger)
+
+* MCP-Server (Breinesberger)
+
+* Grafana - Influxdb (Balazs)
+* LeoEnergie (Nurceski)
+
+* homeassistant (Nikolaus)
+
+* SSE (Cvijic)
+
+=== Referate
+
+* graphQL (Nestler)
+* grpc (Ilming)
+* Prometheus (Berg)
+* Keycloak (Aichinger)
+* decision-trees, random-forest, neuronal networks (Fröller)
+
+
