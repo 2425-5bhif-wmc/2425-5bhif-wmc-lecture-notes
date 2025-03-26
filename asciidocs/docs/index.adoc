@@ -68,10 +68,10 @@ npm outdated
 === Tutorials
 
 * Angular mit single source of truth mit signals (*Cao* Anton)
-* Quarkus roq mit Asciidoc (Mali Laurent)
+* Quarkus roq mit Asciidoc (*Mali* Laurent)
 * Keycloak - Übung von dem Herr Dr. Prof. Aberger * In Asciidoc aufgearbeitet (*Seifried* Erik)
 * Keycloak
-** REST Backend mit *Schludermann*
+** REST Backend mit Hrn. *Schludermann*
 *** RBAC sichern
 *** policy sichern
 ** Frontend Angular
@@ -84,18 +84,18 @@ npm outdated
 
 * Quarkus Quinoa (*Gruber*)
 
-* Quarkus Renard und Qute und htmx (Aldesoky)
+* Quarkus Renard und Qute und htmx (*Aldesoky*)
 
-* gh-actions (Schnalzenberger)
+* gh-actions (*Schnalzenberger*)
 
-* MCP-Server (Breinesberger)
+* MCP-Server (*Breinesberger*)
 
-* Grafana - Influxdb (Balazs)
-* LeoEnergie (Nurceski)
+* [.line-through]#Grafana# - Influxdb (*Balazs*)
+* [.line-through]#LeoEnergie# (Nurceski)
 
-* homeassistant (Nikolaus)
+* homeassistant (*Nikolaus*)
 
-* SSE (Cvijic)
+* SSE (*Cvijic*)
 
 === Referate
 
